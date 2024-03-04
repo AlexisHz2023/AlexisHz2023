@@ -111,7 +111,7 @@
 
 <h3 align="left">Achievements:</h3>
 
-![logo](/Proyecto%20de%20desarrollo%20(1).png)
+![logo](/Proyecto%20de%20desarrollo%20(2).png)
 <br><br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
