@@ -57,12 +57,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
-  </a>
-</p>
 
 - Frontend
 <p align="left">
